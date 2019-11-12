@@ -34,10 +34,10 @@ Result file <a href="CD4EpiScore_Nov_12_2019.csv"> CD4EpiScore_Nov_12_2019.csv</
 
 
 ## References
-UniProt
+UniProt Database : The UniProt Consortium, 2019 PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/30395287">  30395287 </a>
 
-CD4EpiScore
+CD4EpiScore : Dhanda et. al. 2018 PMID <a  href="https://www.ncbi.nlm.nih.gov/pubmed/29963059"> 29963059</a>
 
-IEDB-AR
+IEDB-AR : Dhanda et. al. 2019 PMID <a  href="https://www.ncbi.nlm.nih.gov/pubmed/29963059"> 29963059</a>
 
-NetMHCIIpan
+NetMHCIIpan : Jensen et. al. 2018  <a  href="https://www.ncbi.nlm.nih.gov/pubmed/29315598"> 29315598</a>
