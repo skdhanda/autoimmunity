@@ -32,3 +32,9 @@ The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore
   
 Result file <a href="CD4EpiScore_Nov_12_2019.csv"> CD4EpiScore_Nov_12_2019.csv</a>
 
+
+## References
+UniProt
+CD4EpiScore
+IEDB-AR
+NetMHCIIpan
