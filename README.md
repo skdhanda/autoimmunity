@@ -28,7 +28,7 @@ The binding affinities for the peptides in the provided sequences were predicted
 Result file : <a href="24062_NetMHCIIpan_Nov12.xls"> 24062_NetMHCIIpan_Nov12.xls </a>
 
 ## CD4EpiScore prediction 
-The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore/> CD4EpiScore</a>. 
+The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore/" > CD4EpiScore</a>. 
   
 Result file <a href="CD4EpiScore_Nov_12_2019.csv"> CD4EpiScore_Nov_12_2019.csv</a>
 
