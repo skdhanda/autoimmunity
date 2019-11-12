@@ -1,2 +1,2 @@
 # autoimmunity
-Autoimmunity project for Navvy
+Autoimmunity project in collaborations with Navchetan, UCSF, California, USA. 
