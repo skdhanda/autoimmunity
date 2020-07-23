@@ -25,14 +25,22 @@ The protein sequence for this allele was stored to run predictions.
 ## NetMHCIIpan predictions
 The binding affinities for the peptides in the provided sequences were predicted using <a href="http://www.cbs.dtu.dk/services/NetMHCIIpan/"> NetMHCIIpan version 3.2 </a> using default parameters. 
 
-Result file : <a href="24062_NetMHCIIpan_Nov12.xls"> 24062_NetMHCIIpan_Nov12.xls </a>
+Result file : <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">updated_data/31785_NetMHCIIpan_5_Allelels.xls </a>
 
 ## CD4EpiScore prediction 
 The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore/" > CD4EpiScore</a>. 
   
-Result file <a href="CD4EpiScore_Nov_12_2019.csv"> CD4EpiScore_Nov_12_2019.csv</a>
+Result file <a href="updated/CD4_episcore_results.csv">CD4_episcore_results.csv</a>
 
+## Clustering results
+The clustering was performed on the selected predicted binders (based on their IC50 <=1000nm). The fasta file was generated for these binders can be found in  <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">updated_data/31785_NetMHCIIpan_5_Allelels.xls </a>. 
 
+Clustering was performed using using <a href="http://tools.iedb.org/cluster/" > Clustering tool</a>.
+
+Result file:  <a href="updated_data/clustering_results.csv">updated_data/clustering_results.csv </a>
+
+The peptides across different proteins were then manually selected, if the peptides were grouped together.
+ 
 ## References
 UniProt Database : The UniProt Consortium, 2019 PMID <a href="https://www.ncbi.nlm.nih.gov/pubmed/30395287">  30395287 </a>
 
@@ -41,3 +49,5 @@ CD4EpiScore : Dhanda et. al. 2018 PMID <a  href="https://www.ncbi.nlm.nih.gov/pu
 IEDB-AR : Dhanda et. al. 2019 PMID <a  href="https://www.ncbi.nlm.nih.gov/pubmed/29963059"> 29963059</a>
 
 NetMHCIIpan : Jensen et. al. 2018  <a  href="https://www.ncbi.nlm.nih.gov/pubmed/29315598"> 29315598</a>
+
+Clustering: Dhanda et. al. 2018 <a href="https://pubmed.ncbi.nlm.nih.gov/30014462/"> 30014462</a>
