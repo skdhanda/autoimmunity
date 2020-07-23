@@ -30,7 +30,7 @@ Result file : <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">updated_da
 ## CD4EpiScore prediction 
 The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore/" > CD4EpiScore</a>. 
   
-Result file <a href="updated/CD4_episcore_results.csv">CD4_episcore_results.csv</a>
+Result file <a href="updated_data/CD4_episcore_results.csv">CD4_episcore_results.csv</a>
 
 ## Clustering results
 The clustering was performed on the selected predicted binders (based on their IC50 <=1000nm). The fasta file was generated for these binders can be found in  <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">updated_data/31785_NetMHCIIpan_5_Allelels.xls </a>. 
