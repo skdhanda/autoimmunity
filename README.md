@@ -25,7 +25,7 @@ The protein sequence for this allele was stored to run predictions.
 ## NetMHCIIpan predictions
 The binding affinities for the peptides in the provided sequences were predicted using <a href="http://www.cbs.dtu.dk/services/NetMHCIIpan/"> NetMHCIIpan version 3.2 </a> using default parameters. 
 
-Result file : <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">updated_data/31785_NetMHCIIpan_5_Allelels.xls </a>
+Result file : <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">31785_NetMHCIIpan_5_Allelels.xls </a>
 
 ## CD4EpiScore prediction 
 The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore/" > CD4EpiScore</a>. 
@@ -33,11 +33,11 @@ The immnogenicity was predicted using <a href="http://tools.iedb.org/CD4episcore
 Result file <a href="updated_data/CD4_episcore_results.csv">CD4_episcore_results.csv</a>
 
 ## Clustering results
-The clustering was performed on the selected predicted binders (based on their IC50 <=1000nm). The fasta file was generated for these binders can be found in  <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">updated_data/31785_NetMHCIIpan_5_Allelels.xls </a>. 
+The clustering was performed on the selected predicted binders (based on their IC50 <=1000nm). The fasta file was generated for these binders can be found in  <a href="updated_data/31785_NetMHCIIpan_5_Allelels.xls">31785_NetMHCIIpan_5_Allelels.xls </a>. 
 
 Clustering was performed using using <a href="http://tools.iedb.org/cluster/" > Clustering tool</a>.
 
-Result file:  <a href="updated_data/clustering_results.csv">updated_data/clustering_results.csv </a>
+Result file:  <a href="updated_data/clustering_results.csv">clustering_results.csv </a>
 
 The peptides across different proteins were then manually selected, if the peptides were grouped together.
  
